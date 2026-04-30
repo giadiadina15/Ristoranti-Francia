@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# R session/history files
+.Rhistory
+.Rapp.history
+
+# R workspace files
+.Rdata
+.RData
+.RDataTmp
+
+# RStudio project/user settings
+.Rproj.user
+.Rproj.user/
+
+# Dependency management
+renv/
+
+# Heavy graphic outputs
+output/
+plots/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.bmp
+*.pdf
